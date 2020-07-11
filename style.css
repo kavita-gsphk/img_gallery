@@ -464,15 +464,17 @@ i {
 	color: white;
 }
 @media screen and (max-width: 600px) {
-	.footer {
-		height: 50vh;
-	}
 	.fot_1 {
 		margin: 9px;
 		width: 90%;
 	}
 	.fot_2 {
 		width: 90%;
+	}
+}
+@media screen and (max-width: 400px) {
+	.footer {
+		height: 35vh;
 	}
 }
 .popup {
