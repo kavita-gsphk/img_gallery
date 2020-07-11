@@ -464,9 +464,6 @@ i {
 	color: white;
 }
 @media screen and (max-width: 600px) {
-	.footer {
-		display: none;
-	}
 	.fot_1 {
 		margin: 9px;
 		width: 90%;
